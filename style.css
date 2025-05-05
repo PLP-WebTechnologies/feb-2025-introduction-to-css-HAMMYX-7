@@ -1,1 +1,42 @@
+/* ID selector */
+#title {
+    font-family: 'Georgia', serif;
+    color: darkblue;
+    text-align: center;
+}
+
+/* Class selector */
+.main-header {
+    background-color: #f0f8ff;
+    padding: 20px;
+    border-bottom: 2px solid #ccc;
+}
+
+/* Another class selector */
+.content {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 15px;
+    background-color: #fafafa;
+    border: 1px solid #ddd;
+}
+
+/* Image styling */
+.styled-image {
+    width: 400px;
+    border: 5px solid #555;
+    margin-top: 15px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* Footer element selector */
+footer {
+    text-align: center;
+    margin-top: 40px;
+    padding: 10px;
+    background-color: #e0e0e0;
+    border-top: 2px solid #aaa;
+}
 
